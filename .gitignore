@@ -4,5 +4,5 @@
 # ignore ALL files in ANY directory named temp
 JavaLearn/代码
 JavaLearn/代码.zip
-#!JavaLearn/out
+#!JavaLearn/out/ 不忽略out目录
 
