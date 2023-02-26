@@ -1,0 +1,8 @@
+# ignore ALL .log files
+
+
+# ignore ALL files in ANY directory named temp
+JavaLearn/代码
+JavaLearn/代码.zip
+#!JavaLearn/out
+
